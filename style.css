@@ -1,0 +1,27 @@
+nav.navbar {
+  background-color: #62edea;
+}
+
+body {
+  background-color: #177660;
+}
+
+.hide {
+  display: none;
+}
+
+#data-panel img.show-details:hover {
+  transform: scaleX(0.95) scaleY(0.95);
+}
+
+#user-modal-body div.d-flex {
+  align-items: center;
+}
+
+#user-modal-avatar img {
+  border-radius: 50%;
+}
+
+#user-modal-details p {
+  margin-bottom: 5px;
+}
